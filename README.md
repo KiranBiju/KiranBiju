@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Kiran Biju👋</h1>
 
 <p align="center">
-  🚀 AI Engineer | Backend Developer | Building Intelligent Systems <br>
-  🧠 AI/ML + LLMs • ⚙️ Scalable Systems • 🔗 Blockchain Intelligence
+  🚀 AI Engineer | ⚙️ Backend Developer | 🤖 GenAI developer  <br>
 </p>
 
 ---
