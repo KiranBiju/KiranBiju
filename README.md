@@ -44,7 +44,7 @@ they **analyze, decide, and act**.
 
 ---
 
-### 🤖 Agentic Revenue Intelligence Platform
+### 🤖 Agentic Revenue Intelligence Platform (A.R.I.P)
 > AI system that prioritizes & executes revenue actions autonomously
 
 - 🧠 Decision Engine (ML-based prioritization)  
