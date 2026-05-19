@@ -76,7 +76,7 @@ they **analyze, decide, and act**.
 `Scikit-learn` • `Pandas` • `LLMs` • `Agentic AI` • `GenAI` 
 
 **AI/ML Frameworks:**  
-`LangChain` • `Vector databases` • `LangGraph` • `MCP` • `RAG`
+`LangChain` • `Vector databases` • `LangGraph` • `RAG`
 
 
 **Backend:**  
@@ -91,7 +91,7 @@ they **analyze, decide, and act**.
 
 
 **Tools & Infra:**  
-`Docker` • `GitHub Actions` • `PostgreSQL`
+`Docker` • `GitHub Actions` • `PostgreSQL`, • `Streamlit`
 
 ---
 
