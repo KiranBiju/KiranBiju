@@ -19,7 +19,7 @@ they **analyze, decide, and act**.
 
 ---
 
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
