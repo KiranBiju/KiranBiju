@@ -31,11 +31,11 @@ they **analyze, decide, and act**.
 
 ## 🔥 Featured Projects
 
-### 🛡️ Wallet Risk Intelligence API
+### 🛡️ Wallet Risk Intelligence Platform
 > Detects fraudulent wallets *before* transactions happen
 
 - 🔍 ML-based wallet risk scoring  
-- ⚡ Real-time API (FastAPI)  
+- ⚡ Real-time Backend (FastAPI)  
 - 🧠 RAG + LLM explanations for risk reasoning  
 - 📊 Outputs: Risk Level, Confidence, Explainability  
 
